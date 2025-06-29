@@ -1,4 +1,4 @@
-# Hi, I'm Jay John!  
+# Hi, I'm Jay!  
 ## ☁️ Cloud Architect | Industrial Engineer | Automation Enthusiast
 
 ---
