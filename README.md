@@ -50,7 +50,7 @@ A physical **three-node HP EliteDesk mini cluster** in a 3D-printed desktop rack
 
 Kubernetes networking, security, and platform engineering — explained by building it.
 
-<a href="https://www.youtube.com/@YOUR_HANDLE">
+<a href="https://www.youtube.com/@PodTalk-k8">
 <img src="https://img.shields.io/badge/Watch_Pod_Talk-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
