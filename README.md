@@ -50,6 +50,12 @@ A physical **three-node HP EliteDesk mini cluster** in a 3D-printed desktop rack
 **Stack** · Kubernetes, Calico, GitOps, automated cluster lifecycle  
 **Next up** · Evaluating cluster monitoring & management tooling
 
+### Recent Updates · October 2026
+
+**Ingress controller benchmark** · Compared Traefik, ingress-nginx, and Kong with the same ScopeLens app across burst, load, soak, and stress profiles. All 12 k6 runs completed with 0% HTTP failures and 100% of checks passing; Kong led on this cluster, though the method—not a universal ranking—was the useful result.
+
+**Power resilience** · Added an APC BN450M UPS and relocated the running cluster on battery power with virtually no downtime. Paired with static IPs, it now rides through moves, flickers, and brief outages without a hard crash or network reassignment.
+
 <a href="https://github.com/jaycloud336/the-pod-lab">
 <img src="https://img.shields.io/badge/Explore_the_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
