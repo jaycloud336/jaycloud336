@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=180&section=header&text=Jay%20&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Kubernetes%20%7C%20Cloud%20%7C%20Automation&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=180&section=header&text=Jay%20&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=600&lines=DevOps+%2B+Platform+Engineer;Industrial+Engineer+turned+Cloud+Native;I+break+clusters+so+you+don't+have+to" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=600&lines=Build;Automate;Connect" alt="Typing SVG" />
 
 <br/>
 
@@ -17,12 +17,28 @@
 
 ---
 
-## The Pod Lab
+## Projects
+
+<a href="https://github.com/jaycloud336/fttx-codex-hub">
+<img src="https://raw.githubusercontent.com/jaycloud336/fttx-codex-hub/main/images/header.jpg" width="100%" alt="FTTX Codex Hub"/>
+</a>
+
+**[FTTX Codex Hub](https://github.com/jaycloud336/fttx-codex-hub)** — a hybrid-access documentation portal for fiber and small-cell field operations. Public installation guides need no login; private engineering runbooks sit behind Google identity. One hostname, two access tiers, no object ACLs.
+
+**Stack** · GCP global HTTPS load balancer, Cloud Storage, Cloud Run, Identity-Aware Proxy, Terraform, GitHub Actions
+
+<a href="https://github.com/jaycloud336/fttx-codex-hub">
+<img src="https://img.shields.io/badge/Explore_the_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## My Home Lab ("The Pod Lab")
 
 <table>
 <tr>
 <td width="45%" valign="top">
-<img src="assets/the-pod-lab.jpg" width="100%" alt="The Pod Lab"/>
+<img src="assets/the-pod-lab.jpg" width="100%" alt='My Home Lab ("The Pod Lab")'/>
 <br/><br/>
 <img src="assets/homelab-1.png" width="100%" alt="3-node HP EliteDesk cluster in a 3D-printed rack"/>
 </td>
