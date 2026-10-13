@@ -40,7 +40,7 @@
 <td width="45%" valign="top">
 <img src="assets/the-pod-lab.jpg" width="100%" alt='My Home Lab ("The Pod Lab")'/>
 <br/><br/>
-<img src="assets/homelab-1.png" width="100%" alt="3-node HP EliteDesk cluster in a 3D-printed rack"/>
+<img src="assets/homelab-actual.jpg" width="100%" alt="My three-node HP EliteDesk cluster in its 3D-printed rack"/>
 </td>
 <td width="55%" valign="top">
 
