@@ -44,6 +44,9 @@
 <a href="https://github.com/jaycloud336/international-telecom-architecture">
 <img src="https://img.shields.io/badge/Explore_the_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://jaycloud336.github.io/international-telecom-architecture/">
+<img src="https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 ---
 
