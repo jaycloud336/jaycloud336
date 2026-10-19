@@ -31,6 +31,20 @@
 <img src="https://img.shields.io/badge/Explore_the_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/jaycloud336/international-telecom-architecture">
+<img src="https://raw.githubusercontent.com/jaycloud336/international-telecom-architecture/main/assets/header-global-architecture.jpg" width="100%" alt="International Telecom — Global Landing Zone Architecture"/>
+</a>
+
+**[International Telecom — Global Landing Zone Architecture](https://github.com/jaycloud336/international-telecom-architecture)** — an interactive visualization of a private hub-and-spoke network on Google Cloud, connecting the Americas, Europe, and Asia-Pacific with VPC Peering and HA VPN with BGP.
+
+**Stack** · Google Cloud, VPC Peering, HA VPN, Cloud Router, BGP, Cloud NAT, GitHub Pages
+
+<a href="https://github.com/jaycloud336/international-telecom-architecture">
+<img src="https://img.shields.io/badge/Explore_the_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 ---
 
 ## My Home Lab ("The Pod Lab")
