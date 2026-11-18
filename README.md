@@ -19,6 +19,20 @@
 
 ## Projects
 
+<a href="https://github.com/jaycloud336/telecom-tracker-architecture">
+<img src="https://raw.githubusercontent.com/jaycloud336/telecom-tracker-architecture/main/diagrams/platform-overview.png" width="100%" alt="Telecom Tracker Platform"/>
+</a>
+
+**[Telecom Tracker Platform — Secure, Scalable GitOps Infrastructure on Google Cloud](https://github.com/jaycloud336/telecom-tracker-architecture)** — a highly available platform for a critical internal telecom application: private GKE and Cloud SQL, isolated environments, security-gated CI, and pull-based Argo CD delivery.
+
+**Stack** · Google Cloud, GKE, Cloud SQL, Terraform, GitHub Actions, Argo CD, Kustomize, Prometheus, Grafana
+
+<a href="https://github.com/jaycloud336/telecom-tracker-architecture">
+<img src="https://img.shields.io/badge/Explore_the_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/jaycloud336/fttx-codex-hub">
 <img src="https://raw.githubusercontent.com/jaycloud336/fttx-codex-hub/main/images/header.jpg" width="100%" alt="FTTX Codex Hub"/>
 </a>
